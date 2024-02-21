@@ -1,0 +1,14 @@
+.DS_Store
+launch.json
+
+# Remove the .git directory
+
+# Ignore venv folder
+myenv/
+.venv/
+
+logs
+
+.env
+
+TODO.md
